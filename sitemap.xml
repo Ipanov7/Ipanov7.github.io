@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/404.html</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/author/loris/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/fire-alert/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/about/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/_headers</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/.htaccess</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/too-lazy-with-chatgpt/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/learning-tries-with-dinosaurs/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/rust-urpc/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/raft/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/exactly-once-upon-a-time/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/italy-stop-chatgpt/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/coder-cockpit-developing-with-ai/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/5-reasons-why-i-dont-leetcode/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/the-unbearable-lightness-of-jumping/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/my-first-godot-game/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/a-weekend-with-godot/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/stop-teaching-ethics-to-software-engineers/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/how-i-manage-spatial-data-for-fire-alert/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/clean-code/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/my-lovehate-relationship-with-game-dev/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/why-i-created-a-tool-to-track-wood-fires/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/new-year-new-me-same-blog/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/is-ai-the-ultimate-philosopher/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/automate-aws-lambda-with-go/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/fly-drone-with-led-screen/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/test-pyramid/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/the-swap-file-trick/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/forex-bot-with-lambda-telegram/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/software-engineering-doom-a-personal-thought/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/publish-your-first-package-with-gradle-and-gitlab/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/designing-a-distributed-agtech-application-with-ipfs/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/smart-contract-javafication-web3j-wrappers-and-other-sorceries/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/_redirects</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/robots.txt</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/ai/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/arduino/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/artificial-intelligence/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/aws-lambda/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/c/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/chatgpt/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/clean-code/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/cli/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/distributed-systems/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/environment/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/esp32/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/ethics/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/game-development/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/gis/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/go/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/godot/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/golang/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/interviews/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/microcontroller/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/nasa/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/philosophy/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/programming/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/raft/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/rant/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/refactoring/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/rust/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/satellite/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/side-project/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/software-engineering/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/technology/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/telegram-bot/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/tello-drone/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/unity/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.lorisocchipinti.com/tag/wildfire/</loc>
+    <lastmod>1970-01-01</lastmod>
+  </url>
+</urlset>
